@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestCaesarCipher
+comment1.params=message
+comment1.target=int[]\ countLetters(java.lang.String)
+comment2.params=counts
+comment2.target=int\ maxIndex(int[])
+comment3.params=input
+comment3.target=java.lang.String\ breakCaesarCipher(java.lang.String)
+comment4.params=
+comment4.target=void\ simpleTests()
+comment5.params=
+comment5.target=void\ exerciseTest()
+numComments=6
